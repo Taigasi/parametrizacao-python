@@ -1,1 +1,1 @@
-#Codigos de parametrização em python solicitados para estudo.
+# Codigos de parametrização em python solicitados para estudo.
